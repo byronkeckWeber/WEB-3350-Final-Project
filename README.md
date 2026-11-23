@@ -2,16 +2,16 @@
 Final Project in WEB 3350 
 
 
-#Idea:
+## h2 Idea:
 Monthly Financial Planner
 
 
-#1. Executive Summary & Project Description 
+###1. Executive Summary & Project Description 
 Family Financial Planner
 A shared family budget planner in income/expense tracker. Used by any number of family members to combine and compare income as well as budgeting needs and requirements. Allowing anyone signed in to edit or create new financial categories and limits. As well as document their income and personal expenses.
 
 
-#2. Feature Breakdown & UI Wireframes
+###2. Feature Breakdown & UI Wireframes
 Wire frame in figma : LINK 		password: web3350
 
 Route 1 - Login/Sign up 
@@ -20,7 +20,7 @@ Route 3 - Input income/expense
 Route 4 - expense/income detail
 
 
-3. Technical Architecture and Specifications 
+###3. Technical Architecture and Specifications 
 State Management Plan
 Each page handles individual states, with the dashboard passing filters down as props. Authentication tokens shared through an Auth page.
 Backend& Async Operations
@@ -36,7 +36,7 @@ Do the links send users to the correct page
 Do all numbers on income and expenses add together to the correct amount
 
 
-4. Work Breakdown & Team Responsibilities
+###4. Work Breakdown & Team Responsibilities
 
 Task Management: trello
 
