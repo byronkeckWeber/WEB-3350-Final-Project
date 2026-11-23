@@ -2,16 +2,16 @@
 Final Project in WEB 3350 
 
 
-Idea:
+#Idea:
 Monthly Financial Planner
 
 
-1. Executive Summary & Project Description 
+#1. Executive Summary & Project Description 
 Family Financial Planner
 A shared family budget planner in income/expense tracker. Used by any number of family members to combine and compare income as well as budgeting needs and requirements. Allowing anyone signed in to edit or create new financial categories and limits. As well as document their income and personal expenses.
 
 
-2. Feature Breakdown & UI Wireframes
+#2. Feature Breakdown & UI Wireframes
 Wire frame in figma : LINK 		password: web3350
 
 Route 1 - Login/Sign up 
